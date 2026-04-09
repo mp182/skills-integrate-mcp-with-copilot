@@ -1,0 +1,12 @@
+{
+  "teachers": [
+    {
+      "username": "teacher1",
+      "password_hash": "pbkdf2:sha256:260000$98279568a0b37a6abf739e618be73beb$012cbbc58c472c353976b413d873f01b7d0602661da838a861aa76be0d3440e4"
+    },
+    {
+      "username": "admin",
+      "password_hash": "pbkdf2:sha256:260000$8e0b58f2a9548e2140acd067ea0aeb2e$62d2da423d962459f68c082ca039d1f68ef0115f341bbf73202a787c98d36149"
+    }
+  ]
+}
